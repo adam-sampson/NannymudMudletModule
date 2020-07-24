@@ -29,3 +29,7 @@ None. There are no warranties. Use this at your own risk. If your character dies
 6) Close the window and try out some of the triggers and aliases.
 
 Note: Modules can be synced so that when you change it for one character it changes for all characters. I recommend doing this unless you know more about packages.
+
+# Changes and improvements
+
+Please feel free to make changes and improvements. You can fork this repo for your own use. You can also submit a pull request or add an issue to request an improvement.
