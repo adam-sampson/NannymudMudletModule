@@ -829,37 +829,10 @@ kheal,Khorne Heal,./kh;heal;../kh,,,,,,Automatically heal a Khorne
 phfc,Pick Herbs From Chapel,.2n2e2ph1e2ph1s2ph1s1ph1n1w2ph1n2w2s,,,,,,
 phfs,Pick Herbs From Scroll,.2e2ph1e2ph1s2ph1s1ph1n1w2ph1n2w,,,,,,
 recycler,Recycler of Things,.4w2s1w2s3sw2s1e3s1w1n,..4w2s1w2s3sw2s1e3s1w1n,,,,,Recycler of things for quest
-dg,Dwarf Guards,.2e15n1w1climb mountain1nw1w1nw1move rocks1d2n,..2e15n1w1climb mountain1nw1w1nw1d2n,,,"Near Dwarf Guards; Dwarf Warriors, Mercenary, Dwarf Captain, Dwarf King, Dwarf Queen",,
-ew,Elf Warriors,.2e15n1w1climb mountain1e1ne1n1ne1jump gap1se,..2e15n1w1climb mountain1e1ne1n1ne1jump gap1se,,,Near Elf Warriors; Aligators; Elf King; Elf Queen,Fine Chainmail on Elf King,climb tree to enter canopy
-los,Land Of Sin,.25w2n1ne2e1ne1n1e1ne1e1se1sw1s1se4ne1se1ne1n2ne1se5s1se1e,..25w2n1ne2e1ne1n1e1ne1e1se1sw1s1se4ne1se1ne1n2ne1se5s1se1e,,,"Near Trainees, guards, tower guards, dragon","Black chainmail, black sword",dragon is through altar
-groll,Grolldor,.15w7s4e9s4w1knock gate3n,..15w7s4e9s4w3n,,,"Near Patrolling guards, tower guards, wall guards, seargeant",Black Platemail on Sargaentt,
 fp,Frog Pub,.5w3s1call eagle1w3n3w1climb1jump2n1d1enter hut,.1out1se1swim3s1e1n1enter boat9n,,,,,Good priced pub
-tap,Tapestry,.9s2e1se1e1se1e5n,..9s2e1se1e1se1e5n,,,Near Agath Warriors and Dithri Champions,,Enter Tapestry or Painting 
 mh,Monk Healer,.14w3n2w1n1w1sw,..14w3n2w1n1w1sw,,,,,say heal my mind
 tkp,Three Kings Pub,.6w7s1w,..6w7s1w,,,,,"Good priced pub. 3 hp only, 4 sp only."
 tsp,Tall Ships Pub,.9s2e1se2e1ne4e1s1e,..9s2e1se2e1ne4e1s1e,,,,,special balances hp and sp
-dwarves,Dwarves,.4w1s1e5u1enter mirror3w1enter mirror1e,..4w1s1e5u1enter mirror3w1enter mirror1e,,,Near Dwarf Guards and Dwarf Alchemist,,
-andras,Andra's area,.23w2n1nw2n5e1n,.5s1se2s23e,,,,,Andra's forest
-xerzes,Xerzes the Sage,.9w14n1w1n,..9w14n1w1n,,,,,say heal my mind; WARNING directions have autoattackers and blockades
-qhouse,Qantaqa's House,.4w1n1e5s6e1s,..4w1n1e5s6e1s,,,,,
-kihon,Karate Kihon,.9s2e1se1e1se1e1ne2n1e1s,..9s2e1se1e1se1e1ne2n1e1s,,,,Karate Belt,Must kill guard to enter and buy belt
-vval,Vincent's Valley,.4n3e1d3s4e1u,..4n3e1d3s4e1u,,,,,
-lyr,Lyr's Forest,.6w3s2w2s1sw,..6w3s2w2s1sw,,,Trolls,Black Plate,
-sfang,To Spiderfang,.25w2n1ne2e1ne1se4e3n1ne2e1s1sw1w1climb hill,.1climb down1e1ne1n2w1sw3s4w1nw1sw2w1sw2s25e,,,,Spiderfang,
-trit,Tritonia,.9s2e1se1e1se4s2d1enter1w,.1out1exit2u4n1nw1w1nw2w9n,,,,,
-vir,Viruses and White Guards,.4e2s2w1climb ladder1u1enter hole,.1out2d2e2n4w,,,,,
-demwar,Demon Warriors,.22w1s2se2s2w1nw1enter,.1out1se2e2n2nw1n22e,,,,,
-chem,Qqqq's Chemist,.4w1n1e3n2e1s1open door1s1d,.1u1open door1n1n2w3s1w1s4e,,,,Evil / Good Potion,
-speter,Saint Peter,.39e1s1w1u1n1e1u1s1w1u1n1u1climb pole2u,.4d1s1d1e1n1d1w1s1d1e1n39w,,,,,
-flesh,Fleshfinder,.16w5s2e1d2s1se2s,.2n1nw2n1u2w5n16e,,,,Fleshfinder,
-suns,Sunshine Inn,.4w1n1e2s7e3n1w,.1e3s7w2n1w1s4e,,,,,
-abyss,Abyss,.9s2e1se1e1se1e1ne2e1ne6e1ne4e1ne1e2ne1n2ne3n1enter gate,.1out3s2sw1s2sw1w1sw4w1sw6w1sw2w1sw1w1nw1w1nw2w9n,,,,,Safe route without slipping in mud
-aent,Abyss Ents,.9s2e1se1e1se1e1ne2e1ne6e1ne4e1ne1e2ne1n2ne3n1enter gate4n1e1ne1enter5d1n2e3s1sw1nw1ne1se2s2w1sw1w1sw,.1ne1e1ne2e2n1nw1sw1se1ne3n2w1s5u1out1sw1w4s1out3s2sw1s2sw1w1sw4w1sw6w1sw2w1sw1w1nw1w1nw2w9n,,,Dark Ents,,
-ads,Abyss Dwarf Stronhold,.9s2e1se1e1se1e1ne2e1ne6e1ne4e1ne1e2ne1n2ne3n1enter gate4n1e1ne1enter5d1n2e3s1sw1nw1ne1se2s2e1se1e,.1w1nw2w2n1nw1sw1se1ne3n2w1s5u1out1sw1w4s1out3s2sw1s2sw1w1sw4w1sw6w1sw2w1sw1w1nw1w1nw2w9n,,,Dwarf Guards,,
-chess,Chessboard,.1e5n1nw3e1s2e1n1w1play chess,.1stop playing1e1s2w1n3w1se5s1w,,,,,
-bb,Blackblade,.4s2e1s3e,.3w1n2w4n,,,,,
-arcang,Archangels,.4s2e1s4e2s,.2n4w1n2w4n,read red book,out,,,
-ba,Bloodyaxe,.4s2e1s4e1n1ne,.1sw1s4w1n2w4n,,,,,
 ]]
 
 if locations_table == nil or overwrite == true then
