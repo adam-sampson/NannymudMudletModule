@@ -7,11 +7,11 @@ This module is to help get some very basic commands started in Mudlet for playin
 Some things that are included:
 
 - A speedcommand trigger that parses commands in the form of ".1s3e1n"
-- Speedwalking commands to common pubs and guilds
+- Speedwalking commands to/from common pubs and guilds using ".tmonk" and ".fmonk" syntax. 
 - A Geyser layout that can be used as is, modified, or disabled completely (reset mudlet after disabling)
   - Captures HP/SP
   - Captures HP/SP from other mudlet windows
-  - Captures tells, says, and whispers to a comm window
+  - Captures toxicity information if client setup with custom prompt
 - Examples of multiplayer command functionality using raiseGlobalEvent()
   - Allows you to send commands to other windows using a shortcut alias ("hh pray to lars" sends a command to Helix window to pray to lars)
 - Examples of scripts to capture raised global events and to determine whether or not to parse them
@@ -47,7 +47,7 @@ The locations for the speedwalker are added using scripts/nannymud module rev2/a
   
 The module doesn't care about any column to the right of these. You can also feel free to change the code. It should be fairly clear how to do that. 
 
-To use locations the command is currently "./alias" to run the "full_to" directions, and "../alias" to run the "full_from" directions. So "./monk;pray to lars;../monk" will help you to build points with the big guy. This can be changed in the aliases by changing the regex for autowalk. 
+To use locations the command is currently ".talias" to run the "full_to" directions, and ".falias" to run the "full_from" directions. So ".tmonk;pray to lars;.fmonk" will help you to build points with the big guy. This can be changed in the aliases by changing the regex for autowalk. 
 
 # Default GUI
 
