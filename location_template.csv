@@ -1,0 +1,21 @@
+﻿alias,desc,full_to,full_from,safe_to_delta,safe_from_delta,monsters,equipment,other
+dark,To Dark Guild,.4w9n1d2w5n,..4w9n1d2w5n,,,,,Dark Guild Advance Room
+chaos,Dak to Chaos,.1out2e2nw1w1nw2w1nw1d2n1w,..1enter dak2e2nw1w1nw2w1nw1d2n1w,,,,,From Inside Dak Simyar Gate to Chaos Advance
+monk,To Monk Guild,.3s2w2n1e2s,..3s2w2n1e2s,,,,,Monk Chapel
+kh,To Khorne Heal,.9w7s2w3s1d,..9w7s2w3s1d,,,,,To Khorn Heal Room
+cult,To Cult Guild,.4w4n1w4n1ne1n,..4w4n1w4n1ne1n,,,,,To Cult Guild
+vamp,To Vampires Guild,.9w2n5w1n1nw1enter2e,..9w2n5w1n1nw1enter2e,,,,,To Vampires Guild
+sim,To Simyarin,.27w1enter gate6w1enter dak,out;..27w1enter gate6w,,,,,To Simyarin Guild
+kheal,Khorne Heal,./kh;heal;../kh,,,,,,Automatically heal a Khorne
+recycler,Recycler of Things,.4w2s1w2s3sw2s1e3s1w1n,..4w2s1w2s3sw2s1e3s1w1n,,,,,Recycler of things for quest
+dg,Dwarf Guards,.2e15n1w1climb mountain1nw1w1nw1move rocks1d2n,..2e15n1w1climb mountain1nw1w1nw1d2n,,,"Near Dwarf Guards; Dwarf Warriors, Mercenary, Dwarf Captain, Dwarf King, Dwarf Queen",,
+fp,Frog Pub,.5w3s1call eagle1w3n3w1climb1jump2n1d1enter hut,.1out1se1swim3s1e1n1enter boat9n,,,,,Good priced pub
+mh,Monk Healer,.14w3n2w1n1w1sw,..14w3n2w1n1w1sw,,,,,say heal my mind
+tkp,Three Kings Pub,.6w7s1w,..6w7s1w,,,,,"Good priced pub. 3 hp only, 4 sp only."
+tsp,Tall Ships Pub,.9s2e1se2e1ne4e1s1e,..9s2e1se2e1ne4e1s1e,,,,,special balances hp and sp
+kihon,Karate Kihon,.9s2e1se1e1se1e1ne2n1e1s,..9s2e1se1e1se1e1ne2n1e1s,,,,Karate Belt,Must kill guard to enter and buy belt
+vval,Vincent's Valley,.4n3e1d3s4e1u,..4n3e1d3s4e1u,,,,,
+vir,Viruses and White Guards,.4e2s2w1climb ladder1u1enter hole,.1out2d2e2n4w,,,,,
+speter,Saint Peter,.39e1s1w1u1n1e1u1s1w1u1n1u1climb pole2u,.4d1s1d1e1n1d1w1s1d1e1n39w,,,,,
+suns,Sunshine Inn,.4w1n1e2s7e3n1w,.1e3s7w2n1w1s4e,,,,,
+frog,To frog,.4w1n1e2n,..4w1n1e2n,,,,,Kiss frog to become a frog
