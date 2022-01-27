@@ -23,11 +23,12 @@ None. There are no warranties. Use this at your own risk. If your character dies
 # Setup
 
 1) Install Mudlet
-2) Create a character in mudlet (each character you have gets a different connection)
-3) From the character's playing window click the dropdown next to Package Manager, and then select Module Manager
-4) In the Module Manager click Install. Select the nannymud - shared.xml file that you downloaded from this repo.
-5) In the Module Manager click the checkbox next to "sync" (this will make it so changes you make to the module will apply to all of your characters and not just one.
-6) Close the window and try out some of the triggers and aliases.
+2) Under Settings > Special Options check the box next to "Force telnet GA signal interpretation off"
+3) Create a character in mudlet (each character you have gets a different connection)
+4) From the character's playing window click the dropdown next to Package Manager, and then select Module Manager
+5) In the Module Manager click Install. Select the nannymud - shared.xml file that you downloaded from this repo.
+6) In the Module Manager click the checkbox next to "sync" (this will make it so changes you make to the module will apply to all of your characters and not just one.
+7) Close the window and try out some of the triggers and aliases.
 
 Note: Modules can be synced so that when you change it for one character it changes for all characters. I recommend doing this unless you know more about packages.
 
