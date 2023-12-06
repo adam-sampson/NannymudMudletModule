@@ -6,8 +6,10 @@ This module is to help get some very basic commands started in Mudlet for playin
 
 Some things that are included:
 
-- A speedcommand trigger that parses commands in the form of ".1s3e1n"
-- Speedwalking commands to/from common pubs and guilds using ".tmonk" and ".fmonk" syntax. 
+- A speedcommand trigger that parses commands in the form of `.1s3e1n`
+- Speedwalking commands to/from common pubs and guilds using `.tmonk` and `.fmonk` syntax.
+- A command splitter with semicolon in the form of `smile;grin;laugh`
+- Wait capability for the command splitter using the syntax `smile;wait 2;grin`
 - A Geyser layout that can be used as is, modified, or disabled completely (reset mudlet after disabling)
   - Captures HP/SP
   - Captures HP/SP from other mudlet windows
@@ -26,9 +28,12 @@ None. There are no warranties. Use this at your own risk. If your character dies
 2) Under Settings > Special Options check the box next to "Force telnet GA signal interpretation off"
 3) Create a character in mudlet (each character you have gets a different connection)
 4) From the character's playing window click the dropdown next to Package Manager, and then select Module Manager
-5) In the Module Manager click Install. Select the nannymud - shared.xml file that you downloaded from this repo.
+5) In the Module Manager click Install. Select the NannymudModuleV3.mpackage file that you downloaded from this repo.
 6) In the Module Manager click the checkbox next to "sync" (this will make it so changes you make to the module will apply to all of your characters and not just one.
 7) Close the window and try out some of the triggers and aliases.
+8) Download the speedwalk.csv file, update the alias called `import directions` to point to the file, then in the command line type `/import locations` to perform the import alias command
+9) In the command line run `/set prompt` to set your nannymud prompt to give mudlet your toxicity information each time the prompt is displayed
+10) In the command line do `/set colours` to tell nanny a nice colour scheme to use (optional)
 
 Note: Modules can be synced so that when you change it for one character it changes for all characters. I recommend doing this unless you know more about packages.
 
